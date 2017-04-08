@@ -149,7 +149,7 @@ $p->setGamemode(0);
 $p->getInventory()->clearAll();
 $p->removeAllEffects();
 }
-$this->getServer()->broadcastMessage("§7[§cRazorUHC§7] §fThe Vanic has restarted!");
+$this->getServer()->broadcastMessage("§7[§cRazorUHC§7] §fThe UHC has restarted!");
 return true;
 break;
 
@@ -161,7 +161,7 @@ $sender->sendMessage("§b/UHC start: §fStarts the UHC!");
 $sender->sendMessage("§b/UHC tpall: §fTeleports everyone!");
 $sender->sendMessage("§b/UHC meetop: §fGives OP meetup kit!");
 $sender->sendMessage("§b/UHC pvp <on/off>: §fTurns PvP on or Off");
-$sender->sendMessage("§b/Vanic scenario <effect>: §fSelect Scenario.");
+$sender->sendMessage("§b/Razor scenario <effect>: §fSelect Scenario.");
 
 $sender->sendMessage("§b/UHC globalmute: §fSilences the non-ops.");
 return true;
