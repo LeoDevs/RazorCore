@@ -2,7 +2,7 @@ name: RazorCore
 main: RazorUHC\Core\Core
 version: 1.0.0
 api: [1.0.0, 2.0.0, 3.0.0]
+description: CORE FOR RAZORUHC
 authors: 
 - "Zuruki"
 - "ZaydPE"
-- "CozzaPHP"
