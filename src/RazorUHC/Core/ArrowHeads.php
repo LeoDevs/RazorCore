@@ -1,5 +1,5 @@
 <?php
-namespace arrow;
+namespace Core;
 use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;
 use pocketmine\Player;
