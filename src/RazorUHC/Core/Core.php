@@ -136,7 +136,7 @@ public function onCommand(CommandSender $sender, Command $cmd, $label, array $ar
 	$cmd = strtolower($cmd->getName());
 $players = $sender->getName();
 	switch($cmd){
-case 'Vanic':
+case 'Razor':
 if ($sender->isOp()){
 switch($args[0]){
 
